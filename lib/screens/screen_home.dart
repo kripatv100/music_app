@@ -134,8 +134,8 @@ class ScreenHome extends StatelessWidget {
               height: 5,
             ),
             createGrid(),
-            createMusicList('made for you'),
-            createMusicList('popular playlist')
+            createMusicList('Made for you'),
+            createMusicList('Popular Playlist')
           ],
         ),
       ),
